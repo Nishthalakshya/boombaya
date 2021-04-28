@@ -1,2 +1,1 @@
-# boombaya
-boom boom
+# InfiniteRunner
